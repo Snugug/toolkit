@@ -2,6 +2,8 @@
 
 **Progressive Enhancement? Simple. Responsive Web Design? Done. Design in Browser? Beautiful.**
 
+## UPDATE! Active Development has been moved to the [Team Sass](https://github.com/team-sass/toolkit) orginization!
+
 Think of Toolkit as your swiss army knife for Progressive Enhancement and Responsive Web Design. Those little bits and bobs that make your life easy and you want to reuse throughout projects but never really had a place to put? They're here, and they're designed to make your life happy. It's even got templates to get you rocking and rolling with some of the best Responsive Web Design tools Sass has to offer. Toolkit is broken out into individual pieces, so grab what you want, grab what you need, or grab the lot; the choice is yours.
 
 ## Table of Contents
